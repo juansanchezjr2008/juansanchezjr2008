@@ -17,6 +17,7 @@
   <tr>
     <th>Lenguaje / Tecnología</th>
     <th>Dominio</th>
+    <th></th>
   </tr>
   <tr>
     <td>Desarrollo Web</td>
