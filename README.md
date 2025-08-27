@@ -1,6 +1,6 @@
 <center>
 
-<h1>Hola, Soy Juan Sanchez Jr.</h1>
+<h3>Hola, Soy Juan Sanchez Jr.</h3>
 <p>Estudiante y programador fullstack en formación, apasionado por el desarrollo web y videojuegos.</p>
 <img src="https://files.catbox.moe/dqcoyn.png" alt="Juan Sanchez Jr." width="100%" style="border-radius:15px;"/>
 
