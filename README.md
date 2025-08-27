@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td>PHP + Apache</td>
-    <td>Intermedio</td>
+    <td>Principiante</td>
     <td>
       <div style="background:#ddd; width:150px; border-radius:5px;">
         <div style="width:55%; background:#f39c12; height:10px; border-radius:5px;"></div>
