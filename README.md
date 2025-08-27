@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1>Hola, Soy Juan Sanchez Jr.</h1>
+<p>Estudiante y programador fullstack en formación, apasionado por el desarrollo web y videojuegos.</p>
+<img src="A_20250821_204942_0000.png" alt="Juan Sanchez Jr." width="250" style="border-radius:15px;"/>
 
-<!--
-**juansanchezjr2008/juansanchezjr2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Historia de Aprendizaje y Experiencias</h2>
+<ul>
+  <li><strong>2019:</strong> Fundamentos de hardware y software, Microsoft Office.</li>
+  <li><strong>2020-2023:</strong> Gestión de datos, terminales, Excel avanzado, desarrollo web básico.</li>
+  <li><strong>2023-2024:</strong> Nivel intermedio en Javascript, PHP, Node.js, MySQL, y aprendizaje de Godot con GDScript.</li>
+  <li><strong>2024 - Presente:</strong> Fortaleciendo Python, Bash, Git, y consolidando habilidades en desarrollo web y videojuegos.</li>
+</ul>
 
-Here are some ideas to get you started:
+<h2>Habilidades</h2>
+<table>
+  <tr>
+    <th>Lenguaje / Tecnología</th>
+    <th>Dominio</th>
+    <th>Progreso</th>
+  </tr>
+  <tr>
+    <td>Desarrollo Web</td>
+    <td>70%</td>
+    <td>
+      <div style="background:#ddd; width:150px; border-radius:5px;">
+        <div style="width:70%; background:#4CAF50; height:10px; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>35%</td>
+    <td>
+      <div style="background:#ddd; width:150px; border-radius:5px;">
+        <div style="width:35%; background:#2196F3; height:10px; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>PHP + Apache</td>
+    <td>55%</td>
+    <td>
+      <div style="background:#ddd; width:150px; border-radius:5px;">
+        <div style="width:55%; background:#f39c12; height:10px; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>40%</td>
+    <td>
+      <div style="background:#ddd; width:150px; border-radius:5px;">
+        <div style="width:40%; background:#9b59b6; height:10px; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>Godot</td>
+    <td>60%</td>
+    <td>
+      <div style="background:#ddd; width:150px; border-radius:5px;">
+        <div style="width:60%; background:#e74c3c; height:10px; border-radius:5px;"></div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
