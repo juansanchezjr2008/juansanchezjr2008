@@ -1,16 +1,23 @@
-<h1>Hola, Soy Juan Sanchez Jr.</h1>
-<p>Estudiante y programador fullstack en formación, apasionado por el desarrollo web y videojuegos.</p>
-<img src="https://files.catbox.moe/dqcoyn.png" alt="Juan Sanchez Jr." width="100%" style="border-radius:15px;"/>
+<center>
+# Hola, Soy Juan Sanchez Jr.
 
-<h2>Historia de Aprendizaje y Experiencias</h2>
-<ul>
-  <li><strong>2019:</strong> Fundamentos de hardware y software, Microsoft Office.</li>
-  <li><strong>2020-2023:</strong> Gestión de datos, terminales, Excel avanzado, desarrollo web básico.</li>
-  <li><strong>2023-2024:</strong> Nivel intermedio en Javascript, PHP, Node.js, MySQL, y aprendizaje de Godot con GDScript.</li>
-  <li><strong>2024 - Presente:</strong> Fortaleciendo Python, Bash, Git, y consolidando habilidades en desarrollo web y videojuegos.</li>
-</ul>
+Estudiante y programador fullstack en formación, apasionado por el desarrollo web y videojuegos.
 
-<h2>Habilidades</h2>
+<img src="A_20250821_204942_0000.png" alt="Juan Sanchez Jr." width="250" style="border-radius:15px;"/>
+
+---
+
+## Historia de Aprendizaje y Experiencias
+
+- **2019:** Fundamentos de hardware y software, Microsoft Office.
+- **2020-2023:** Gestión de datos, terminales, Excel avanzado, desarrollo web básico.
+- **2023-2024:** Nivel intermedio en Javascript, PHP, Node.js, MySQL, y aprendizaje de Godot con GDScript.
+- **2024 - Presente:** Fortaleciendo Python, Bash, Git, y consolidando habilidades en desarrollo web y videojuegos.
+
+---
+
+## Habilidades
+
 <table>
   <tr>
     <th>Lenguaje / Tecnología</th>
@@ -64,3 +71,12 @@
   </tr>
 </table>
 
+---
+
+## Proyectos
+
+- [Proyecto Web Fullstack](https://github.com/tuusuario/mi-web)
+- [Mini RPG en Godot](https://github.com/tuusuario/godot-rpg)
+- [Experimentos con OpenCV](https://github.com/tuusuario/python-opencv)
+
+</center>
