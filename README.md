@@ -17,11 +17,10 @@
   <tr>
     <th>Lenguaje / Tecnología</th>
     <th>Dominio</th>
-    <th>Progreso</th>
   </tr>
   <tr>
     <td>Desarrollo Web</td>
-    <td>70%</td>
+    <td>Alto</td>
     <td>
       <div style="background:#ddd; width:150px; border-radius:5px;">
         <div style="width:70%; background:#4CAF50; height:10px; border-radius:5px;"></div>
@@ -30,7 +29,7 @@
   </tr>
   <tr>
     <td>Python</td>
-    <td>35%</td>
+    <td>Intermedio Alto</td>
     <td>
       <div style="background:#ddd; width:150px; border-radius:5px;">
         <div style="width:35%; background:#2196F3; height:10px; border-radius:5px;"></div>
@@ -39,7 +38,7 @@
   </tr>
   <tr>
     <td>PHP + Apache</td>
-    <td>55%</td>
+    <td>Intermedio</td>
     <td>
       <div style="background:#ddd; width:150px; border-radius:5px;">
         <div style="width:55%; background:#f39c12; height:10px; border-radius:5px;"></div>
@@ -48,7 +47,7 @@
   </tr>
   <tr>
     <td>SQL</td>
-    <td>40%</td>
+    <td>Intermedio Bajo</td>
     <td>
       <div style="background:#ddd; width:150px; border-radius:5px;">
         <div style="width:40%; background:#9b59b6; height:10px; border-radius:5px;"></div>
@@ -57,7 +56,7 @@
   </tr>
   <tr>
     <td>Godot</td>
-    <td>60%</td>
+    <td>Alto</td>
     <td>
       <div style="background:#ddd; width:150px; border-radius:5px;">
         <div style="width:60%; background:#e74c3c; height:10px; border-radius:5px;"></div>
