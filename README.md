@@ -13,57 +13,5 @@
 </ul>
 
 <h2>Habilidades</h2>
-<table>
-  <tr>
-    <th>Lenguaje / Tecnología</th>
-    <th>Dominio</th>
-    <th></th>
-  </tr>
-  <tr>
-    <td>Desarrollo Web</td>
-    <td>Alto</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:70%; background:#4CAF50; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>Intermedio Alto</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:35%; background:#2196F3; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>PHP + Apache</td>
-    <td>Principiante</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:55%; background:#f39c12; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>SQL</td>
-    <td>Intermedio Bajo</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:40%; background:#9b59b6; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>Godot</td>
-    <td>Alto</td>
-    <td>
-      <div style="background:#ddd; width:150px; border-radius:5px;">
-        <div style="width:60%; background:#e74c3c; height:10px; border-radius:5px;"></div>
-      </div>
-    </td>
-  </tr>
-</table>
-
+<img src="https://files.catbox.moe/nl9gso.png" alt="Habilidades Principales" width="100%"/>
 </center>
