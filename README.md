@@ -12,6 +12,5 @@
   <li><strong>2024 - Presente:</strong> Fortaleciendo Python, Bash, Git, y consolidando habilidades en desarrollo web y videojuegos.</li>
 </ul>
 
-<h2>Habilidades</h2>
-<img src="https://files.catbox.moe/nl9gso.png" alt="Habilidades Principales" width="100%"/>
+<img src="https://files.catbox.moe/lqjg2s.png" alt="Habilidades Principales" width="100%"/>
 </center>
