@@ -1,3 +1,3 @@
 | Tech |
 |------|
-| [![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript) |
+| [![JS](https://img.shields.io/badge/--black?style=flat&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript) |
