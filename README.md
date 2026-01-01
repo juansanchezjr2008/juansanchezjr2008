@@ -1,4 +1,3 @@
-| Stack | Estado |
-|------|--------|
-| JS | ![](https://img.shields.io/badge/JS-Activo-yellow?logo=javascript) |
-| TS | ![](https://img.shields.io/badge/TS-Aprendiendo-blue?logo=typescript) |
+| Tech |
+|------|
+| [![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript) |
